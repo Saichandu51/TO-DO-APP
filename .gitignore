@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore Docker files that shouldn’t be shared
+*.log
+
